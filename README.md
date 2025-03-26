@@ -1,5 +1,5 @@
 # Excel_FNP_Sales_project
-This  Sales Analysis Dashboard tracks total orders, revenue, and customer spending trends across categories, occasions, and time. It helps identify top-selling products, peak sales hours, and high-demand cities.
+This Excel dashboard provides a sales analysis using Pivot Tables and Filters, tracking revenue, orders, customer spending, and trends across categories, occasions, time, and locations. It helps identify peak sales periods, top-selling products, and high-performing cities for better business decisions.
 # Objective 
 To analyze sales performance by tracking revenue, orders, customer spending, and trends across different categories, occasions, time periods, and locations.  
 
